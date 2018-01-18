@@ -1,0 +1,14 @@
+h1{
+	color: white;
+	background-color:black;
+	font-size: 100px;
+}
+p{
+	color: cyan;
+	font: cursive, sans-serif;
+	font-size: 70px;
+}
+img{
+	height:150px;
+	width:150px;
+}
