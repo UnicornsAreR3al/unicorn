@@ -8,7 +8,7 @@ ctx.lineTo(150,100);
 ctx.lineTo(0,100);
 ctx.closePath();
 ctx.stroke();
-ctx.fillStyle = "grey";
+ctx.fillStyle = "DarkTurquoise";
 ctx.fill();
 
 ctx.beginPath();
@@ -18,11 +18,12 @@ ctx.lineTo(150,200);
 ctx.lineTo(75,100);
 ctx.closePath();
 ctx.stroke();
-ctx.fillStyle = "pink";
+ctx.fillStyle = "DeepPink";
 ctx.fill();
 
 
 ctx.arc(150,150,100,0,6.28);
-ctx.strokeStyle ="blue";
+ctx.strokeStyle ="DodgerBlue";
 ctx.stroke();
+ctx.fillStyle ="DodgerBlue";
 
